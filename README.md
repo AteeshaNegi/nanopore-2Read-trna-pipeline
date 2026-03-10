@@ -10,6 +10,16 @@ This repository showcases a **bioinformatics pipeline for detecting 2-Read tRNA 
 
 **Key Innovation**: Detection of RNA modifications through analysis of  systematic ONT basecalling errors, polymerase read-through+error and termination events during nanopore sequencing.
 
+## Research Collaboration
+
+This work represents ongoing research in **epitranscriptomic analysis** using cutting-edge Oxford Nanopore sequencing technology. 
+
+**For more information about this research:**
+- **Principal Investigator**: [Dr. Hou Lab](https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/biochemistry/faculty/hou.html)
+- **Institution**: Thomas Jefferson University, Department of Biochemistry
+- **Contact**: For collaboration opportunities and detailed methodologies
+
+
 ## Research Approach
 
 ### Methodology
@@ -64,37 +74,6 @@ This repository showcases a **bioinformatics pipeline for detecting 2-Read tRNA 
 - **tRNA Biology**: Understanding tRNA modification patterns
 - **Disease Research**: Modification changes in disease states
 - **Comparative Analysis**: Cross-species modification studies
-
-
-## Repository Structure
-
-```
-├── README.md                    # This file
-├── docs/                        
-│   ├── methodology.md          # Detailed methodology
-│   └── modification_types.md   # Supported modification detection
-├── scripts/                     
-│   ├── basecalling/            # Dorado basecalling workflows
-│   ├── alignment/              # Alignment and processing
-│   ├── analysis/               # Modification detection algorithms
-│   └── visualization/          # Plotting and visualization
-├── configs/                     
-│   ├── environment.yml         # Conda environment
-│   └── dorado_config/          # Basecalling configurations
-└── assets/                      
-    ├── trna_pipeline_workflow.png  # Pipeline diagram
-    └── example_outputs/        # Example analysis results
-```
-
-
-## Research Collaboration
-
-This work represents ongoing research in **epitranscriptomic analysis** using cutting-edge Oxford Nanopore sequencing technology. 
-
-**For more information about this research:**
-- **Principal Investigator**: [Dr. Hou Lab](https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/biochemistry/faculty/hou.html)
-- **Institution**: Thomas Jefferson University, Department of Biochemistry
-- **Contact**: For collaboration opportunities and detailed methodologies
 
 
 ## Acknowledgments
