@@ -1,4 +1,4 @@
-# Oxford Nanopore tRNA Modification Analysis Pipeline
+# Oxford Nanopore 2-Read Genome Wide tRNA Modification Analysis Pipeline
 
 [![Method](https://img.shields.io/badge/Method_Approach-brightgreen)]()
 [![Technology](https://img.shields.io/badge/Technology-Oxford_Nanopore-orange)]()
